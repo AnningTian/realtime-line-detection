@@ -93,7 +93,7 @@ python video_line_detection.py -f input_video.mp4 -o result.avi -r 10
 
 ```
 .
-├── video_line_detection.py    # Main script
+├── Cam.py    # Main script
 ├── output.avi                 # Processed output video
 ├── README.md
 ```
